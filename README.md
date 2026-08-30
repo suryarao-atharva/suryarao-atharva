@@ -38,7 +38,7 @@ With my father working a transferable job, moving to new locations was a constan
 
 My parents currently live in Sumbawa, Indonesia, an island just east of Bali. Every semester break, my trip home becomes an adventure in its own. I fly from Ahmedabad to Bali, then hop on a small 10-seater private seaplane to Sumbawa. This small turboprop aeroplane takes-off from a regular runway on land and lands smoothly on the water, as gently as landing on butter.
 
-Every trip home, I cover nearly 7,000 km in about 15 hours. It always baffles me how I can fall asleep in India one night and wake up in Indonesia the next, while some of my friends are still on a 1,500 km train ride. This naturally led me to ask myself how anything could travel that fast, and yes, the answer was right outside my aeroplane window, bolted under the wing, the massive engines. At first, I naively thought an aircraft engine was just a fast-spinning fan. But the day I saw an exposed jet engine, I realised how incredibly complex these engines are and decided I wanted to learn to build one.
+Every trip home, I cover nearly 7,000 km in about 15 hours. It always baffles me how I can fall asleep in India one night and wake up in Indonesia the next, while some of my friends are still on a 1,500 km train ride. This naturally led me to ask myself how anything could travel that fast, and yes, the answer was right outside my aeroplane window, bolted under the wing, the massive engines. At first, I naively thought an aircraft engine was just a fast-spinning fan. But the day I saw an exposed jet engine, I realised how incredibly complex these engines are and decided to learn to build one.
 
 
 
