@@ -6,12 +6,28 @@ Hi, I’m Atharva Suryarao, a Senior Undergraduate in Mechanical Engineering at 
 
 This summer, I did a research internship under Prof. Vinod Narayanan at IIT Gandhinagar. I started by getting a solid grasp on how scramjets work, specifically, how they manage to function without moving parts. From there, I moved on to simulating cold (non-reacting) flows on a strut-based scramjet using the DLR geometry.
 
-Getting the solution right took weeks because I initially underestimated how critical meshing is for accurate results. On top of that, each run took 8 to 10 hours locally on my laptop. While fixing the mesh, I learned to use IITGN’s HPC facility to offload simulations onto supercomputers. Once I had the right mesh, setup, and access to the HPC, the run time dropped from 10 hours to just 30 minutes, a huge milestone for me.
+Getting the solution right took weeks because I initially underestimated how critical meshing is for accurate results. On top of that, each run took 8 to 10 hours locally on my laptop. While fixing the mesh, I learned to use IITGN’s HPC facility to offload simulations onto supercomputers. Once I had the right mesh, setup, and access to the HPC, the run time dropped from 10 hours to just 30 minutes, a huge milestone for me. One of the contour for the non-reacting flows is shown below.
 
+![Scramjet Pressure Simulation](./pressure.jpg)
 
 With the setup validated, I focused on my core task: studying how changes in the upper wall divergence angle affect shock patterns and fuel-air mixing efficiency. I finished that phase in two weeks. **Presently, I am continuing the project by extending it to reacting flows to study actual combustion and thrust.**
 
+### Tech Stack & Tools
 
+**Softwares**
+
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB800?style=for-the-badge&logo=ansys&logoColor=black)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Inventor](https://img.shields.io/badge/Autodesk_Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![MSC Adams](https://img.shields.io/badge/MSC_Adams-EE3124?style=for-the-badge&logo=hexagon&logoColor=white)
+![MotionGen](https://img.shields.io/badge/MotionGen-005A9C?style=for-the-badge&logo=gear&logoColor=white)
+
+**Programming & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Personal Biography
 
